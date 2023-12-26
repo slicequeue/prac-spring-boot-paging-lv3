@@ -1,6 +1,5 @@
 package com.slicequeue.project.entity;
 
-import com.slicequeue.project.common.Constants;
 import com.slicequeue.project.common.type.WeightUnit;
 import com.slicequeue.project.entity.base.BaseTimeEntity;
 import lombok.AccessLevel;
@@ -11,7 +10,6 @@ import org.hibernate.annotations.Comment;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
-
 import java.util.ArrayList;
 import java.util.List;
 

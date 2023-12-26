@@ -1,6 +1,5 @@
 package com.slicequeue.project.entity;
 
-import com.slicequeue.project.common.Constants;
 import com.slicequeue.project.entity.base.BaseTimeEntity;
 import lombok.*;
 import org.hibernate.annotations.Comment;
