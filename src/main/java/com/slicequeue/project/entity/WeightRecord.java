@@ -21,7 +21,8 @@ import static com.slicequeue.project.common.Constants.POSTFIX_NOTNULL_MESSAGE;
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class WeightRecord extends BaseTimeEntity {
 
-    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Comment("몸무게 기록 일련번호")
     private Long id;
 
@@ -44,19 +45,28 @@ public class WeightRecord extends BaseTimeEntity {
     @OneToMany(mappedBy = "weightRecord", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
     private List<WeightRecordComment> comments = new ArrayList<>();
 
+    @OneToMany(mappedBy = "weightRecord", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<WeightImageRecord> imageRecords = new ArrayList<>();
+
     @Builder
-    public WeightRecord(Long id, Float weight, WeightUnit unit, String memo, Long userId, List<WeightRecordComment> comments) {
+    public WeightRecord(Long id, Float weight, WeightUnit unit, String memo, Long userId, List<WeightRecordComment> comments, List<WeightImageRecord> imageRecords) {
         this.id = id;
         this.weight = weight;
         this.unit = unit;
         this.memo = memo;
         this.userId = userId;
         this.comments = comments;
+        this.imageRecords = imageRecords;
     }
 
     public void changeComments(List<WeightRecordComment> comments) {
         this.comments.clear();
         this.comments.addAll(comments);
+    }
+
+    public void changeImageRecords(List<WeightImageRecord> imageRecords) {
+        this.imageRecords.clear();
+        this.imageRecords.addAll(imageRecords);
     }
 
 }
