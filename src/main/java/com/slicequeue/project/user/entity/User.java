@@ -7,17 +7,14 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
-import lombok.AccessLevel;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+
+import lombok.*;
 import org.hibernate.annotations.Comment;
 
 @Entity
 @Table(name = "user_info")
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
-@AllArgsConstructor(access = AccessLevel.PRIVATE)
 public class User {
 
   @Id
@@ -33,6 +30,13 @@ public class User {
   @Comment("생년월일")
   @Column(name = "birth_date")
   private LocalDate birthDate;
+
+  @Builder
+  public User(Long id, String name, LocalDate birthDate) {
+    this.id = id;
+    this.name = name;
+    this.birthDate = birthDate;
+  }
 
   public static User of(String name, LocalDate birthDate) {
     return new User(null, name, birthDate);
