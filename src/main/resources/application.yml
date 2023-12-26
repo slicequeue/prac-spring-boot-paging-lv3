@@ -1,0 +1,50 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+spring:
+  application:
+    name: 'spring-boot-boilerplate-api'
+  profiles:
+    active: local
+
+  config:
+    import: classpath:extra.yml
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    generate-ddl: true
+    properties:
+      hibernate:
+        format_sql: false
+
+  datasource:
+    generate-unique-name: false
+    driver-class-name: org.h2.Driver
+    url: ${DB_URL}
+    username: ${DB_USER}
+    password: ${DB_PASS}
+    hikari:
+      maximum-pool-size: ${DB_POOL_SIZE:1}
+
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+
+# 로그 설정
+logging:
+  config:
+    classpath: logback.xml
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, httptrace, info, metrics, prometheus
+  metrics:
+    tags:
+      application: ${spring.application.name}    # Prometheus label name
