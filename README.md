@@ -1,6 +1,5 @@
-# Spring Boot API Boilerplate
-- slicequeue! spring boot api boilerplate 프로젝트
-  - JPA 적용, H2 데이터베이스 사용
+# practice-spring-boot-paging-lv3
+- 페이징 실습을 위한 몸무게 기록 관리 API 서버
 
 ## 구성
 Spring Boot RESTful API 전용 프로젝트
