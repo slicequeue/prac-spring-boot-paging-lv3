@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: 'spring-boot-boilerplate-api'
+    name: 'practice-spring-boot-paging-lv3'
   profiles:
     active: local
 
