@@ -1,7 +1,7 @@
 package com.slicequeue.project.entity;
 
 import com.slicequeue.project.common.type.WeightUnit;
-import com.slicequeue.project.entity.base.BaseTimeEntity;
+import com.slicequeue.project.entity.base.BaseTimeSoftDeleteEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
@@ -19,7 +19,7 @@ import static com.slicequeue.project.common.Constants.POSTFIX_NOTNULL_MESSAGE;
 @Table(name = "weight_record")
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
-public class WeightRecord extends BaseTimeEntity {
+public class WeightRecord extends BaseTimeSoftDeleteEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

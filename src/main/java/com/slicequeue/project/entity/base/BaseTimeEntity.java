@@ -1,6 +1,5 @@
 package com.slicequeue.project.entity.base;
 
-
 import lombok.Getter;
 import org.hibernate.annotations.Comment;
 import org.hibernate.annotations.CreationTimestamp;
@@ -27,14 +26,4 @@ public class BaseTimeEntity {
     @Column
     private Instant updatedAt;
 
-    @Comment("삭제일시")
-    private Instant deletedAt;
-
-    public void changeDeletedAt(Instant deletedAt) {
-        this.deletedAt = deletedAt;
-    }
-
-    public boolean isDeleted() {
-        return this.deletedAt != null;
-    }
 }
