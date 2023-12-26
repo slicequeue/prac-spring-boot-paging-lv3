@@ -1,12 +1,9 @@
-package com.slicequeue.project.entity.base;
+package com.slicequeue.project.common.base;
 
 
 import lombok.Getter;
 import org.hibernate.annotations.Comment;
-import org.hibernate.annotations.CreationTimestamp;
-import org.hibernate.annotations.UpdateTimestamp;
 
-import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
 import java.time.Instant;
 

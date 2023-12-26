@@ -1,6 +1,6 @@
-package com.slicequeue.project.entity;
+package com.slicequeue.project.statistic.entity;
 
-import com.slicequeue.project.entity.base.BaseTimeSoftDeleteEntity;
+import com.slicequeue.project.common.base.BaseTimeSoftDeleteEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.slicequeue.project.entity;
+package com.slicequeue.project.user.entity;
 import java.time.LocalDate;
 import javax.persistence.Column;
 import javax.persistence.Entity;

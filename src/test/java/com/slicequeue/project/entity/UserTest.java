@@ -1,9 +1,9 @@
 package com.slicequeue.project.entity;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+
+import com.slicequeue.project.user.entity.User;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

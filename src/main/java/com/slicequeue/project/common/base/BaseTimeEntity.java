@@ -1,4 +1,4 @@
-package com.slicequeue.project.entity.base;
+package com.slicequeue.project.common.base;
 
 import lombok.Getter;
 import org.hibernate.annotations.Comment;
