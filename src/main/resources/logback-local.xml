@@ -28,7 +28,7 @@
   <logger name="org.apache.catalina.startup.ContextConfig" level="ERROR"/>
   <!-- TLD 관련 로그 출력-->
   <logger name="org.apache.jasper.servlet.TldScanner" level="ERROR"/>
-  <logger name="net.huray." level="DEBUG"/>
+  <logger name="com.slicequeue.project." level="DEBUG"/>
   <logger name="org.springframework" level="ERROR"/>
   <logger name="org.hibernate" level="ERROR"/>
   <logger name="org.hibernate.SQL" level="DEBUG"/>
