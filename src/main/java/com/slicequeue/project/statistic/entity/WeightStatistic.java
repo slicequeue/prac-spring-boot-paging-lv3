@@ -28,6 +28,11 @@ public class WeightStatistic extends BaseTimeSoftDeleteEntity {
     @Column(name = "weight_record_id", nullable = false)
     private Long weightRecordId;
 
+    @Comment("몸무게 통계 대상 사용자 일련번호")
+    @NotNull(message = "userId" + POSTFIX_NOTNULL_MESSAGE)
+    @Column(name = "user_id", nullable = false)
+    private Long userId;
+
     @NotNull(message = "totalAvgWeight" + POSTFIX_NOTNULL_MESSAGE)
     @Comment("몸무게 누적 평균값")
     @Column(name = "total_avg_weight", nullable = false)
@@ -44,8 +49,9 @@ public class WeightStatistic extends BaseTimeSoftDeleteEntity {
     private Float totalMinWeight;
 
     @Builder
-    public WeightStatistic(Long id, Long weightRecordId, Float totalAvgWeight, Float totalMaxWeight, Float totalMinWeight) {
+    public WeightStatistic(Long id, Long weightRecordId, Long userId, Float totalAvgWeight, Float totalMaxWeight, Float totalMinWeight) {
         this.id = id;
+        this.userId = userId;
         this.weightRecordId = weightRecordId;
         this.totalAvgWeight = totalAvgWeight;
         this.totalMaxWeight = totalMaxWeight;
