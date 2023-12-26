@@ -15,15 +15,17 @@ import static com.slicequeue.project.common.Constants.POSTFIX_NOTNULL_MESSAGE;
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class WeightRecordComment extends BaseTimeEntity {
 
+    @Comment("몸무게 기록 댓글 일련번호")
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Comment("몸무게 기록 댓글 일련번호")
     private Long id;
 
+    @Comment("몸무게 기록 댓글 내용")
     @NotNull(message = "comment" + POSTFIX_NOTNULL_MESSAGE)
     @Column(name = "comment", nullable = false)
     private String comment;
 
+    @Comment("몸무게 기록 댓글 작성자 사용자 일련번호")
     @NotNull(message = "userId" + POSTFIX_NOTNULL_MESSAGE)
     @Column(name = "user_id", nullable = false)
     private Long userId;

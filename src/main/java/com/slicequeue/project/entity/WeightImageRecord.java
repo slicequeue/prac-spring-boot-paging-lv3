@@ -15,11 +15,12 @@ import static com.slicequeue.project.common.Constants.POSTFIX_NOTNULL_MESSAGE;
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class WeightImageRecord extends BaseTimeEntity {
 
+    @Comment("몸무게 기록 사진 일련번호")
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Comment("몸무게 기록 사진 일련번호")
     private Long id;
 
+    @Comment("사진 URL")
     @NotNull(message = "imageUrl" + POSTFIX_NOTNULL_MESSAGE)
     @Column(name = "image_url", nullable = false)
     private String imageUrl;

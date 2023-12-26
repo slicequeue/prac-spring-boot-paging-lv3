@@ -21,23 +21,27 @@ import static com.slicequeue.project.common.Constants.POSTFIX_NOTNULL_MESSAGE;
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class WeightRecord extends BaseTimeSoftDeleteEntity {
 
+    @Comment("몸무게 기록 일련번호")
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Comment("몸무게 기록 일련번호")
     private Long id;
 
+    @Comment("몸무게 값")
     @NotNull(message = "weight" + POSTFIX_NOTNULL_MESSAGE)
     @Column(name = "weight", nullable = false)
     private Float weight;
 
+    @Comment("몸무게 값 단위")
     @NotNull(message = "unit" + POSTFIX_NOTNULL_MESSAGE)
     @Enumerated(EnumType.STRING)
     @Column(name = "weight_unit", nullable = false)
     private WeightUnit unit;
 
+    @Comment("몸무게 기록에 대한 메모")
     @Column(name = "memo")
     private String memo;
 
+    @Comment("몸무게 기록 사용자 일련번호")
     @NotNull(message = "userId" + POSTFIX_NOTNULL_MESSAGE)
     @Column(name = "user_id", nullable = false)
     private Long userId;
