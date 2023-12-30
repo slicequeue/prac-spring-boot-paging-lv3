@@ -16,7 +16,7 @@ public class WeightRecordController {
 
     private final WeightRecordQueryRepository weightRecordQueryRepository;
 
-    @RequestMapping(method = RequestMethod.GET, path = "/api/v1/records")
+    @RequestMapping(method = RequestMethod.GET, path = "/api/v1/weight-records")
     public Page<WeightRecordResponse> getRecordsV1(
             @RequestParam Long userId,
             @ModelAttribute TimeRangeRequest timeRangeRequest,
