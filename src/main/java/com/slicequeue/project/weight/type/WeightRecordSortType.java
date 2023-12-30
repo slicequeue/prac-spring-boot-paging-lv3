@@ -3,13 +3,14 @@ package com.slicequeue.project.weight.type;
 import com.querydsl.core.types.Expression;
 import com.querydsl.core.types.OrderSpecifier.NullHandling;
 import com.querydsl.core.types.dsl.Expressions;
-import com.slicequeue.project.weight.entity.QWeightRecord;
-import com.slicequeue.project.weight.entity.WeightRecord;
+import com.slicequeue.project.common.base.BaseSortableType;
+import com.slicequeue.project.statistic.entity.QWeightStatistic;
 import lombok.Getter;
 import org.springframework.data.domain.Sort;
 
 import java.util.Arrays;
 
+import static com.slicequeue.project.statistic.entity.QWeightStatistic.weightStatistic;
 import static com.slicequeue.project.weight.entity.QWeightRecord.weightRecord;
 
 @Getter
@@ -19,19 +20,19 @@ public enum WeightRecordSortType {
     WEIGHT("weight", "weight", weightRecord.weight),
     CREATED_AT("createdAt", "createdAt", weightRecord.createdAt),
     UPDATED_AT("updatedAt", "updatedAt", weightRecord.updatedAt),
-    TOTAl_AVG_WEIGHT("totalAvgWeight", "totalAvgWeight", Expressions.stringPath("totalAvgWeight"))
+    TOTAl_AVG_WEIGHT("totalAvgWeight", "totalAvgWeight", weightStatistic.totalAvgWeight)
 
     ;
 
-    String sortingDtoPath;
-    String sortingColumnPath;
-    Expression<?> sortingColumnpathExpression;
-    NullHandling nullHandling;
+    final String sortingDtoPath;
+    final String sortingColumnPath;
+    final Expression<?> sortingColumnPathExpression;
+    final NullHandling nullHandling;
 
-    WeightRecordSortType(String sortingDtoPath, String sortingColumnPath, Expression<?> sortingColumnpathExpression) {
+    WeightRecordSortType(String sortingDtoPath, String sortingColumnPath, Expression<?> sortingColumnPathExpression) {
         this.sortingDtoPath = sortingDtoPath;
         this.sortingColumnPath = sortingColumnPath;
-        this.sortingColumnpathExpression = sortingColumnpathExpression;
+        this.sortingColumnPathExpression = sortingColumnPathExpression;
         this.nullHandling = NullHandling.NullsLast;
     }
 

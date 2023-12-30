@@ -1,17 +1,20 @@
 package com.slicequeue.project.weight.repository.query;
 
+import com.querydsl.core.types.Order;
+import com.querydsl.core.types.OrderSpecifier;
 import com.querydsl.core.types.Projections;
 import com.querydsl.jpa.JPQLQuery;
 import com.slicequeue.project.common.dto.TimeRangeRequest;
-import com.slicequeue.project.user.entity.QUser;
 import com.slicequeue.project.weight.dto.WeightRecordResponse;
 import com.slicequeue.project.weight.entity.WeightRecord;
+import com.slicequeue.project.weight.type.WeightRecordSortType;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
-import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.support.QuerydslRepositorySupport;
 import org.springframework.data.support.PageableExecutionUtils;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import static com.slicequeue.project.statistic.entity.QWeightStatistic.weightStatistic;
@@ -42,7 +45,8 @@ public class WeightRecordQueryRepositoryImpl
                         weightRecord.deletedAt.isNull(),
                         weightRecord.createdAt.between(timeRangeRequest.getStartAt(), timeRangeRequest.getEndAt())
                 )
-                .orderBy()
+                .orderBy(getOrderSpecifiers(pageable))  // 정렬 처리
+                // 페이징 처리
                 .limit(pageable.getPageSize())
                 .offset(pageable.getOffset())
                 // 응답 dto 클래스 프로젝션!
@@ -60,5 +64,22 @@ public class WeightRecordQueryRepositoryImpl
                 );
 
         return PageableExecutionUtils.getPage(content, pageable, countQuery::fetchCount);
+    }
+
+    private static OrderSpecifier<?>[] getOrderSpecifiers(Pageable pageable) {
+        Sort sort = pageable.getSort();
+        if (sort.isEmpty()) {
+            return new OrderSpecifier[] {};
+        }
+        List<OrderSpecifier<?>> orderSpecifiers = new ArrayList<>();
+        for (Sort.Order order : sort.get().toList()) {
+            WeightRecordSortType sortType = WeightRecordSortType.convert(order);
+            Order dslOrder = order.getDirection().isAscending() ? Order.ASC : Order.DESC;
+            if (sortType != null) {
+                orderSpecifiers.add(
+                        new OrderSpecifier(dslOrder, sortType.getSortingColumnPathExpression(), sortType.getNullHandling()));
+            }
+        }
+        return orderSpecifiers.toArray(OrderSpecifier[]::new);
     }
 }

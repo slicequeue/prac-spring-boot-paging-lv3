@@ -6,6 +6,7 @@ import com.slicequeue.project.weight.repository.query.WeightRecordQueryRepositor
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.web.bind.annotation.*;
 
@@ -19,7 +20,7 @@ public class WeightRecordController {
     public Page<WeightRecordResponse> getRecordsV1(
             @RequestParam Long userId,
             @ModelAttribute TimeRangeRequest timeRangeRequest,
-            @PageableDefault Pageable pageable
+            @PageableDefault(sort = "createdAt", direction = Sort.Direction.DESC) Pageable pageable
     ) {
         return weightRecordQueryRepository.findPageWeightRecordResponses(userId, timeRangeRequest, pageable);
     }
