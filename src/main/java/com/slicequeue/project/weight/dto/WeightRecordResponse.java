@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 
+import java.time.Instant;
 import java.util.List;
 
 @Data
@@ -27,6 +28,10 @@ public class WeightRecordResponse {
     private List<String> imageUrls;
 
     private List<CommentSummary> comments;
+
+    private Instant createdAt;
+
+    private Instant updatedAt;
 
     @Data
     @Builder
