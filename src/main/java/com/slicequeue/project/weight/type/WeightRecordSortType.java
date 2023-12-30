@@ -6,6 +6,9 @@ import com.querydsl.core.types.dsl.Expressions;
 import com.slicequeue.project.weight.entity.QWeightRecord;
 import com.slicequeue.project.weight.entity.WeightRecord;
 import lombok.Getter;
+import org.springframework.data.domain.Sort;
+
+import java.util.Arrays;
 
 import static com.slicequeue.project.weight.entity.QWeightRecord.weightRecord;
 
@@ -30,5 +33,13 @@ public enum WeightRecordSortType {
         this.sortingColumnPath = sortingColumnPath;
         this.sortingColumnpathExpression = sortingColumnpathExpression;
         this.nullHandling = NullHandling.NullsLast;
+    }
+
+    public static WeightRecordSortType convert(Sort.Order order) {
+        String property = order.getProperty();
+        return Arrays.stream(values())
+                .filter(each -> each.sortingDtoPath.equals(property))
+                .findFirst()
+                .orElse(null);
     }
 }
