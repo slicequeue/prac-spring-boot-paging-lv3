@@ -7,7 +7,7 @@ import org.springframework.data.domain.Pageable;
 
 public interface WeightRecordQueryRepositoryCustom {
 
-    Page<WeightRecordResponse> findPageWeightRecordReponses(
+    Page<WeightRecordResponse> findPageWeightRecordResponses(
             Long userId, TimeRangeRequest timeRangeRequest, Pageable pageable);
 
 }
