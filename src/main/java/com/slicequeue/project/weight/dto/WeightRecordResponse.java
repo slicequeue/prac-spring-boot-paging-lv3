@@ -12,7 +12,6 @@ import java.time.Instant;
 import java.util.List;
 
 @Data
-@Builder
 public class WeightRecordResponse {
 
     private Long recordId;

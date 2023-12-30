@@ -3,13 +3,12 @@ package com.slicequeue.project.weight.repository.query;
 import com.querydsl.core.types.Projections;
 import com.querydsl.jpa.JPQLQuery;
 import com.slicequeue.project.common.dto.TimeRangeRequest;
-import com.slicequeue.project.statistic.entity.QWeightStatistic;
 import com.slicequeue.project.user.entity.QUser;
 import com.slicequeue.project.weight.dto.WeightRecordResponse;
-import com.slicequeue.project.weight.entity.QWeightRecord;
 import com.slicequeue.project.weight.entity.WeightRecord;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.jpa.repository.support.QuerydslRepositorySupport;
 import org.springframework.data.support.PageableExecutionUtils;
 
@@ -19,9 +18,11 @@ import static com.slicequeue.project.statistic.entity.QWeightStatistic.weightSta
 import static com.slicequeue.project.user.entity.QUser.user;
 import static com.slicequeue.project.weight.entity.QWeightRecord.weightRecord;
 
-public class WeightRecordQueryRepositoryImpl extends QuerydslRepositorySupport implements WeightRecordQueryRepositoryCustom {
+public class WeightRecordQueryRepositoryImpl
+        extends QuerydslRepositorySupport // Querydsl 3.x 버전을 대상으로 만듬  Querydsl 4.x에 나온 JPAQueryFactory 로 시작할 수 없음
+        implements WeightRecordQueryRepositoryCustom {
 
-    public WeightRecordQueryRepositoryImpl(Class<?> domainClass) {
+    public WeightRecordQueryRepositoryImpl() {
         super(WeightRecord.class);
     }
 
@@ -44,7 +45,9 @@ public class WeightRecordQueryRepositoryImpl extends QuerydslRepositorySupport i
                 .orderBy()
                 .limit(pageable.getPageSize())
                 .offset(pageable.getOffset())
-                .select(Projections.constructor(WeightRecordResponse.class, weightRecord, weightStatistic))
+                // 응답 dto 클래스 프로젝션!
+                .select(// 생성자 모양에 맞게 매게변수 전달
+                        Projections.constructor(WeightRecordResponse.class, weightRecord, user, weightStatistic))
                 .fetch();
 
         JPQLQuery<WeightRecord> countQuery = from(weightRecord)

@@ -1,0 +1,2192 @@
+2023-12-27 00:00:14.595 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:00:14.598 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:00:44.606 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:00:44.606 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:01:14.618 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:01:14.618 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:01:44.632 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:01:44.632 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:02:14.634 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:02:14.634 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:02:44.642 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:02:44.642 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:03:14.654 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:03:14.654 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:03:44.661 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:03:44.661 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:04:14.666 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:04:14.666 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:04:44.671 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:04:44.671 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:05:14.682 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:05:14.682 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:05:44.688 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:05:44.688 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:06:14.693 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:06:14.693 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:06:44.695 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:06:44.695 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:07:14.707 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:07:14.707 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:07:44.713 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:07:44.713 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:08:14.728 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:08:14.728 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:08:44.734 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:08:44.734 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:09:14.738 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:09:14.738 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:09:44.746 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:09:44.746 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:10:14.750 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:10:14.750 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:10:44.759 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:10:44.759 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:11:14.770 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:11:14.770 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:11:44.780 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:11:44.780 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:12:14.782 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:12:14.782 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:12:44.783 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:12:44.783 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:13:14.799 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:13:14.799 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:13:44.810 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:13:44.810 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:14:14.826 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:14:14.826 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:14:44.836 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:14:44.836 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:15:14.842 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:15:14.842 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:15:44.858 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:15:44.858 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:16:14.872 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:16:14.872 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:16:44.885 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:16:44.885 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:17:14.890 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:17:14.890 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:17:44.893 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:17:44.893 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:18:14.905 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:18:14.905 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:18:44.907 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:18:44.907 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:19:14.907 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:19:14.907 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:19:38.166 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn8: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:19:38.167 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn10: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:19:41.112 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn7: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:19:41.112 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn11: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:19:44.923 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:19:44.923 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:19:45.237 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn5: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:19:45.238 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn12: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:19:49.818 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn6: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:19:49.818 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn13: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:20:14.927 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:20:14.927 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:20:22.287 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn9: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:20:22.288 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn14: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:20:44.932 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:20:44.932 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:21:14.934 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:21:14.934 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:21:44.939 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:21:44.939 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:22:14.946 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:22:14.946 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:22:44.948 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:22:44.949 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:23:14.958 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:23:14.959 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:23:44.959 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:23:44.959 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:24:14.965 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:24:14.965 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:24:44.980 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:24:44.980 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:25:14.987 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:25:14.987 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:25:44.996 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:25:44.996 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:26:15.005 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:26:15.005 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:26:45.018 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:26:45.018 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:27:15.027 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:27:15.027 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:27:45.038 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:27:45.038 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:28:15.054 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:28:15.054 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:28:45.064 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:28:45.064 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:29:15.075 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:29:15.075 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:29:45.080 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:29:45.080 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:30:15.095 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:30:15.095 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:30:45.099 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:30:45.099 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:31:15.107 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:31:15.107 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:31:45.117 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:31:45.117 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:32:15.122 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:32:15.122 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:32:45.124 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:32:45.124 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:33:15.140 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:33:15.140 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:33:45.151 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:33:45.151 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:34:15.156 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:34:15.156 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:34:45.159 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:34:45.159 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:35:15.170 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:35:15.170 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:35:45.179 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:35:45.179 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:36:15.191 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:36:15.191 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:36:45.199 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:36:45.199 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:37:15.206 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:37:15.206 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:37:45.213 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:37:45.213 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:38:15.216 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:38:15.216 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:38:45.231 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:38:45.231 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:39:15.246 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:39:15.246 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:39:45.247 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:39:45.247 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:40:15.250 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:40:15.250 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:40:45.262 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:40:45.262 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:41:15.271 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:41:15.271 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:41:45.272 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:41:45.272 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:42:15.274 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:42:15.274 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:42:45.280 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:42:45.280 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:43:15.291 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:43:15.291 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:43:45.297 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:43:45.297 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:44:15.297 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:44:15.297 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:44:45.312 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:44:45.312 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:45:15.325 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:45:15.325 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:45:45.339 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:45:45.339 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:46:15.346 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:46:15.346 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:46:45.354 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:46:45.354 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:47:15.358 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:47:15.358 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:47:45.369 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:47:45.369 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:48:15.385 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:48:15.385 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:48:45.390 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:48:45.390 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:49:08.198 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn13: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:49:08.198 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn15: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:49:13.999 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn11: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:49:14.000 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn16: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:49:14.000 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:49:15.404 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:49:15.404 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:49:20.061 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn10: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:49:20.062 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn17: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:49:42.734 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn12: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:49:42.735 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn18: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:49:45.418 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:49:45.418 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:49:56.864 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn14: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 00:49:56.865 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn19: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 00:50:15.432 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:50:15.432 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:50:45.432 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:50:45.432 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:51:15.449 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:51:15.449 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:51:45.458 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:51:45.458 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:52:15.468 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:52:15.468 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:52:45.479 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:52:45.479 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:53:15.493 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:53:15.493 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:53:45.496 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:53:45.496 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:54:15.507 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:54:15.507 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:54:45.512 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:54:45.512 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:55:15.515 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:55:15.515 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:55:45.522 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:55:45.522 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:56:15.530 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:56:15.530 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:56:45.540 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:56:45.540 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:57:15.543 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:57:15.543 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:57:45.555 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:57:45.556 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:58:15.572 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:58:15.572 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:58:45.579 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:58:45.579 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:59:15.586 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:59:15.586 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 00:59:45.591 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 00:59:45.591 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:00:15.603 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:00:15.603 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:00:45.606 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:00:45.606 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:01:15.609 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:01:15.609 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:01:45.616 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:01:45.616 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:02:15.630 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:02:15.630 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:02:45.641 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:02:45.641 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:03:15.645 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:03:15.645 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:03:45.652 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:03:45.652 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:04:15.668 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:04:15.668 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:04:45.669 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:04:45.669 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:05:15.683 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:05:15.683 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:05:45.684 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:05:45.684 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:06:15.695 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:06:15.695 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:06:45.697 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:06:45.697 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:07:15.705 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:07:15.705 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:07:45.708 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:07:45.708 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:08:15.721 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:08:15.721 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:08:45.737 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:08:45.737 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:09:15.738 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:09:15.738 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:09:45.747 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:09:45.747 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:10:15.748 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:10:15.748 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:10:45.758 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:10:45.758 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:11:15.758 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:11:15.758 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:11:45.762 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:11:45.762 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:12:15.772 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:12:15.772 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:12:45.776 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:12:45.776 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:13:15.783 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:13:15.783 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:13:45.798 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:13:45.798 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:14:15.803 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:14:15.803 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:14:45.806 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:14:45.806 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:15:15.817 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:15:15.817 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:15:45.824 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:15:45.824 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:16:15.825 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:16:15.825 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:16:45.837 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:16:45.837 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:17:15.847 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:17:15.847 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:17:45.863 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:17:45.863 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:18:15.870 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:18:15.870 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:18:36.814 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn17: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:18:36.815 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn20: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:18:45.879 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:18:45.879 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:18:47.986 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn16: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:18:47.986 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn21: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:18:57.950 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn15: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:18:57.950 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn22: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:18:57.950 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:19:15.890 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:19:15.890 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:19:27.435 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn19: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:19:27.436 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn23: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:19:34.953 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn18: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:19:34.954 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn24: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:19:45.901 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:19:45.901 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:20:15.910 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:20:15.910 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:20:45.918 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:20:45.918 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:21:15.918 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:21:15.918 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:21:45.925 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:21:45.925 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:22:15.926 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:22:15.926 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:22:45.937 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:22:45.937 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:23:15.951 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:23:15.951 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:23:45.954 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:23:45.954 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:24:15.963 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:24:15.963 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:24:45.978 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:24:45.978 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:25:15.984 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:25:15.984 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:25:45.996 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:25:45.996 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:26:16.006 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:26:16.006 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:26:46.013 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:26:46.013 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:27:16.020 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:27:16.020 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:27:46.027 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:27:46.027 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:28:16.043 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:28:16.043 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:28:46.044 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:28:46.044 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:29:16.044 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:29:16.044 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:29:46.059 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:29:46.059 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:30:16.061 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:30:16.061 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:30:46.065 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:30:46.065 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:31:16.080 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:31:16.080 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:31:46.096 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:31:46.096 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:32:16.108 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:32:16.108 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:32:46.115 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:32:46.115 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:33:16.123 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:33:16.123 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:33:46.136 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:33:46.136 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:34:16.150 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:34:16.150 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:34:46.164 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:34:46.164 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:35:16.168 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:35:16.168 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:35:46.169 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:35:46.169 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:36:16.177 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:36:16.177 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:36:46.182 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:36:46.182 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:37:16.188 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:37:16.188 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:37:46.198 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:37:46.198 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:38:16.205 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:38:16.205 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:38:46.208 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:38:46.208 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:39:16.216 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:39:16.216 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:39:46.223 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:39:46.223 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:40:16.229 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:40:16.229 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:40:46.229 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:40:46.229 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:41:16.234 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:41:16.234 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:41:46.235 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:41:46.235 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:42:16.245 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:42:16.245 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:42:46.249 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:42:46.249 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:43:16.258 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:43:16.258 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:43:46.274 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:43:46.274 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:44:16.280 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:44:16.280 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:44:46.292 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:44:46.292 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:45:16.299 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:45:16.299 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:45:46.313 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:45:46.315 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:46:16.316 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:46:16.316 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:46:46.321 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:46:46.321 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:47:16.321 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:47:16.321 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:47:46.331 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:47:46.331 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:48:16.334 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:48:16.334 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:48:17.213 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn22: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:48:17.214 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn25: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:48:26.746 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn20: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:48:26.746 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn26: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:48:32.272 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn21: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:48:32.273 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn27: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:48:46.348 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:48:46.348 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:48:55.261 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn24: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:48:55.262 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn28: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:49:16.361 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:49:16.361 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:49:26.505 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn23: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 01:49:26.506 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn29: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 01:49:46.370 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:49:46.370 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:50:16.383 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:50:16.383 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:50:46.389 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:50:46.389 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:51:16.400 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:51:16.400 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:51:46.404 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:51:46.404 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:52:16.415 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:52:16.415 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:52:46.427 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:52:46.427 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:53:16.430 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:53:16.430 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:53:46.441 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:53:46.441 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:54:16.447 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:54:16.447 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:54:46.451 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:54:46.451 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:55:16.453 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:55:16.453 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:55:46.461 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:55:46.461 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:56:16.464 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:56:16.464 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:56:46.473 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:56:46.473 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:57:16.477 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:57:16.477 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:57:46.481 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:57:46.481 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:58:16.491 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:58:16.491 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:58:46.506 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:58:46.506 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:59:16.520 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:59:16.520 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 01:59:46.523 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 01:59:46.523 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:00:16.535 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:00:16.535 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:00:46.546 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:00:46.546 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:01:16.554 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:01:16.554 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:01:46.564 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:01:46.564 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:02:16.574 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:02:16.574 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:02:46.581 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:02:46.581 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:03:16.591 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:03:16.591 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:03:46.600 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:03:46.600 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:04:16.614 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:04:16.614 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:04:46.626 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:04:46.626 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:05:16.633 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:05:16.633 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:05:46.639 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:05:46.639 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:06:16.650 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:06:16.650 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:06:46.655 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:06:46.655 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:07:16.663 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:07:16.663 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:07:46.675 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:07:46.675 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:08:16.678 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:08:16.678 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:08:46.681 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:08:46.681 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:09:16.689 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:09:16.689 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:09:46.699 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:09:46.699 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:10:16.713 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:10:16.713 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:10:46.723 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:10:46.723 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:11:16.726 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:11:16.726 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:11:46.731 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:11:46.731 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:12:16.732 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:12:16.732 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:12:46.734 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:12:46.734 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:13:16.746 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:13:16.746 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:13:46.759 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:13:46.759 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:14:16.769 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:14:16.769 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:14:46.784 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:14:46.784 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:15:16.791 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:15:16.791 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:15:46.796 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:15:46.796 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:16:16.810 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:16:16.810 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:16:46.824 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:16:46.824 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:17:16.840 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:17:16.840 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:17:46.856 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:17:46.856 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:17:49.250 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn25: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 02:17:49.250 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn30: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 02:17:56.680 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn26: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 02:17:56.680 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn31: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 02:18:05.031 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn27: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 02:18:05.031 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn32: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 02:18:16.858 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:18:16.858 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:18:33.710 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn28: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 02:18:33.710 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn33: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 02:18:46.864 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:18:46.864 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:19:15.346 HikariPool-1 connection closer    DEBUG com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection conn29: url=jdbc:h2:mem:testdb user=SA: (connection has passed maxLifetime)
+2023-12-27 02:19:15.347 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn34: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 02:19:16.877 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:19:16.877 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:19:46.878 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:19:46.878 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:20:16.892 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:20:16.892 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:20:46.898 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:20:46.898 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:21:16.902 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:21:16.903 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:21:46.913 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:21:46.913 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:22:16.926 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:22:16.926 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:22:46.935 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:22:46.935 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:23:16.946 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:23:16.946 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:23:46.948 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:23:46.948 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:24:16.964 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:24:16.964 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:24:46.966 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:24:46.966 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:25:16.967 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:25:16.967 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:25:46.970 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:25:46.970 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 02:26:16.985 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 02:26:16.985 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-12-27 16:08:46.268 restartedMain    INFO  c.s.project.ProjectApplication - Starting ProjectApplication using Java 17.0.5 on DESKTOP-Q7KGM4T with PID 32220 (C:\Users\user\workplace\java\practice-spring-boot-paging-lv3\build\classes\java\main started by user in C:\Users\user\workplace\java\practice-spring-boot-paging-lv3)
+2023-12-27 16:08:46.270 restartedMain    DEBUG c.s.project.ProjectApplication - Running with Spring Boot v2.7.5, Spring v5.3.23
+2023-12-27 16:08:46.270 restartedMain    INFO  c.s.project.ProjectApplication - The following 1 profile is active: "local"
+2023-12-27 16:08:46.273 background-preinit    DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-12-27 16:08:47.864 restartedMain    INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-27 16:08:47.865 restartedMain    INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-12-27 16:08:47.865 restartedMain    INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-12-27 16:08:47.949 restartedMain    INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-12-27 16:08:48.002 restartedMain    DEBUG i.m.c.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2023-12-27 16:08:48.031 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - Driver class org.h2.Driver found in Thread context class loader TomcatEmbeddedWebappClassLoader
+  context: ROOT
+  delegate: true
+----------> Parent Classloader:
+org.springframework.boot.devtools.restart.classloader.RestartClassLoader@77c671ac
+
+2023-12-27 16:08:48.689 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - HikariPool-1 - configuration:
+2023-12-27 16:08:48.690 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - allowPoolSuspension................................false
+2023-12-27 16:08:48.690 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - autoCommit................................true
+2023-12-27 16:08:48.690 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - catalog................................none
+2023-12-27 16:08:48.690 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - connectionInitSql................................none
+2023-12-27 16:08:48.690 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - connectionTestQuery................................none
+2023-12-27 16:08:48.691 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - connectionTimeout................................30000
+2023-12-27 16:08:48.691 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - dataSource................................none
+2023-12-27 16:08:48.691 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - dataSourceClassName................................none
+2023-12-27 16:08:48.691 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - dataSourceJNDI................................none
+2023-12-27 16:08:48.691 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - dataSourceProperties................................{password=<masked>}
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - driverClassName................................"org.h2.Driver"
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - exceptionOverrideClassName................................none
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - healthCheckProperties................................{}
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - healthCheckRegistry................................none
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - idleTimeout................................600000
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - initializationFailTimeout................................1
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - isolateInternalQueries................................false
+2023-12-27 16:08:48.692 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - jdbcUrl................................jdbc:h2:mem:testdb;MODE=MySQL;DATABASE_TO_UPPER=FALSE
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - keepaliveTime................................0
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - leakDetectionThreshold................................0
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - maxLifetime................................1800000
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - maximumPoolSize................................5
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - metricRegistry................................none
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - metricsTrackerFactory................................com.zaxxer.hikari.metrics.micrometer.MicrometerMetricsTrackerFactory@161b438d
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - minimumIdle................................5
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - password................................<masked>
+2023-12-27 16:08:48.693 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - poolName................................"HikariPool-1"
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - readOnly................................false
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - registerMbeans................................false
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - scheduledExecutor................................none
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - schema................................none
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - threadFactory................................internal
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - transactionIsolation................................default
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - username................................"sa"
+2023-12-27 16:08:48.694 restartedMain    DEBUG com.zaxxer.hikari.HikariConfig - validationTimeout................................5000
+2023-12-27 16:08:48.694 restartedMain    INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-12-27 16:08:48.862 restartedMain    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 16:08:48.867 restartedMain    INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-12-27 16:08:48.982 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2023-12-27 16:08:48.984 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn1: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 16:08:48.985 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn2: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 16:08:48.985 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn3: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 16:08:48.986 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn4: url=jdbc:h2:mem:testdb user=SA
+2023-12-27 16:08:48.986 HikariPool-1 connection adder    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After adding stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 16:08:49.564 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    create table user_info (
+       id bigint generated by default as identity,
+        birth_date date,
+        name varchar(255) not null,
+        primary key (id)
+    )
+2023-12-27 16:08:49.570 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    create table weight_image_record (
+       id bigint generated by default as identity,
+        created_at timestamp,
+        updated_at timestamp,
+        image_url varchar(255) not null,
+        weight_record_id bigint not null,
+        primary key (id)
+    )
+2023-12-27 16:08:49.572 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    create table weight_record (
+       id bigint generated by default as identity,
+        created_at timestamp,
+        updated_at timestamp,
+        deleted_at timestamp,
+        memo varchar(255),
+        weight_unit varchar(255) not null,
+        user_id bigint not null,
+        weight float not null,
+        primary key (id)
+    )
+2023-12-27 16:08:49.573 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    create table weight_record_comment (
+       id bigint generated by default as identity,
+        created_at timestamp,
+        updated_at timestamp,
+        comment varchar(255) not null,
+        user_id bigint not null,
+        weight_record_id bigint not null,
+        primary key (id)
+    )
+2023-12-27 16:08:49.574 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    create table weight_statistic (
+       id bigint generated by default as identity,
+        created_at timestamp,
+        updated_at timestamp,
+        deleted_at timestamp,
+        total_avg_weight float not null,
+        total_max_weight float not null,
+        total_min_weight float not null,
+        user_id bigint not null,
+        weight_record_id bigint not null,
+        primary key (id)
+    )
+2023-12-27 16:08:49.575 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    alter table weight_image_record 
+       add constraint FKs0sgnm5x4xjmkpe0e7ru2vlub 
+       foreign key (weight_record_id) 
+       references weight_record
+2023-12-27 16:08:49.579 restartedMain    DEBUG org.hibernate.SQL - 
+    
+    alter table weight_record_comment 
+       add constraint FK7scn1h4o13j0ed1dysq35bypx 
+       foreign key (weight_record_id) 
+       references weight_record
+2023-12-27 16:08:50.077 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.user.entity.User
+        */ insert 
+        into
+            user_info
+            (id, birth_date, name) 
+        values
+            (default, ?, ?)
+2023-12-27 16:08:50.090 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.user.entity.User
+        */ insert 
+        into
+            user_info
+            (id, birth_date, name) 
+        values
+            (default, ?, ?)
+2023-12-27 16:08:50.103 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.108 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.110 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.111 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.112 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.113 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.115 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.117 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.119 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.120 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.121 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.123 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.124 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.126 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.127 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.129 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.131 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.132 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.132 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.133 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.134 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.135 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.136 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.137 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.138 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.139 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.140 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.141 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.142 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.142 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.144 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.145 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.146 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.147 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.148 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.149 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.150 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.151 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.154 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.155 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.157 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.158 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.159 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.160 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.161 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.162 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.162 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.163 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.163 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.165 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.166 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.169 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.170 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.171 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.172 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.174 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.175 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.176 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.177 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.178 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.179 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.179 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.180 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.181 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.183 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.183 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.184 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.184 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.186 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.187 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.188 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.188 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.189 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.190 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.191 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.191 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.192 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.193 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.193 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.194 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.195 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.195 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.195 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.196 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.197 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.197 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.198 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.198 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.199 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.199 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.200 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.201 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.201 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.202 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.202 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.203 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.203 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.204 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.204 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.205 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.205 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.207 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.208 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.208 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.209 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.212 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.213 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.214 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.215 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.215 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.216 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.218 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.219 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.220 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.221 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.221 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.222 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.223 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.224 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.225 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.226 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.226 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.228 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.228 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.229 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.230 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.231 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.231 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.232 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.232 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.233 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.233 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.234 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.235 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.235 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.236 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.236 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.237 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.237 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.238 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.239 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.239 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.240 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.241 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.241 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.242 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.242 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.242 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.244 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.245 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.245 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.246 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.246 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.246 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.247 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.248 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.248 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.249 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.249 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.249 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.250 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.250 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.251 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.252 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.252 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.253 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.254 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.254 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.255 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecord
+        */ insert 
+        into
+            weight_record
+            (id, created_at, updated_at, deleted_at, memo, weight_unit, user_id, weight) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.256 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.257 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightRecordComment
+        */ insert 
+        into
+            weight_record_comment
+            (id, created_at, updated_at, comment, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.258 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.259 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.259 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.weight.entity.WeightImageRecord
+        */ insert 
+        into
+            weight_image_record
+            (id, created_at, updated_at, image_url, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?)
+2023-12-27 16:08:50.260 restartedMain    DEBUG org.hibernate.SQL - 
+    /* insert com.slicequeue.project.statistic.entity.WeightStatistic
+        */ insert 
+        into
+            weight_statistic
+            (id, created_at, updated_at, deleted_at, total_avg_weight, total_max_weight, total_min_weight, user_id, weight_record_id) 
+        values
+            (default, ?, ?, ?, ?, ?, ?, ?, ?)
+2023-12-27 16:08:50.628 restartedMain    DEBUG _.s.w.s.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2023-12-27 16:08:50.637 restartedMain    DEBUG _.s.w.s.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2023-12-27 16:08:50.656 restartedMain    DEBUG _.s.w.s.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2023-12-27 16:08:50.919 restartedMain    INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-12-27 16:08:50.967 restartedMain    INFO  c.s.project.ProjectApplication - Started ProjectApplication in 5.046 seconds (JVM running for 5.882)
+2023-12-27 16:09:18.993 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+2023-12-27 16:09:18.993 HikariPool-1 housekeeper    DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
