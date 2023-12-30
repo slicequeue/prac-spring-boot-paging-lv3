@@ -61,7 +61,7 @@ public class ProjectApplication {
 
 			// 사용자1 몸무게 기록 & 코멘트 & 이미지 생성
 			for (int i = 0; i < 25; i++) {
-				String recordMemo = String.format("사용자1 %s 몸무게 기록", i + 1);
+				String recordMemo = String.format("사용자1 몸무게 기록 %s", i + 1);
 				WeightRecord weightRecord = WeightRecord.builder()
 						.weight(70.f)
 						.unit(WeightUnit.KG)

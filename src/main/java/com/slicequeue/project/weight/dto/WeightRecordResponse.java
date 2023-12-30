@@ -56,7 +56,7 @@ public class WeightRecordResponse {
         this.userId = user.getId();
         this.userName = user.getName();
         this.totalAvgWeight = weightStatistic.getTotalAvgWeight();
-//        this.totalGrade
+//        this.totalGrade // TODO 구현
         this.imageUrls = weightRecord.getImageRecords().stream()
                 .map(WeightImageRecord::getImageUrl)
                 .toList();
