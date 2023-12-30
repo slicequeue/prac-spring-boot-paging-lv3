@@ -6,6 +6,7 @@ import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.BatchSize;
 import org.hibernate.annotations.Comment;
 
 import javax.persistence.*;
@@ -46,9 +47,11 @@ public class WeightRecord extends BaseTimeSoftDeleteEntity {
     @Column(name = "user_id", nullable = false)
     private Long userId;
 
+    @BatchSize(size = 1000) // where in 절로 이 크기 만큼 가져옴
     @OneToMany(mappedBy = "weightRecord", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
     private List<WeightRecordComment> comments = new ArrayList<>();
 
+    @BatchSize(size = 1000) // where in 절로 이 크기 만큼 가져옴
     @OneToMany(mappedBy = "weightRecord", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
     private List<WeightImageRecord> imageRecords = new ArrayList<>();
 
