@@ -1,3 +1,10 @@
+// QueryDSL 버전정보 추가
+buildscript {
+	ext {
+		queryDslVersion = "5.0.0"
+	}
+}
+
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '2.7.5'
@@ -32,7 +39,9 @@ dependencies {
 	testRuntimeOnly 'com.h2database:h2'
 
 	//querydsl 추가
-	implementation 'com.querydsl:querydsl-jpa'
+	implementation "com.querydsl:querydsl-jpa:${queryDslVersion}"
+	implementation "com.querydsl:querydsl-apt:${queryDslVersion}"
+	implementation "com.querydsl:querydsl-core:${queryDslVersion}"
 
 	/* --- 추가 --- */
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
@@ -51,21 +60,29 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
+//QueryDSL 플로그인 설정 START
 
-//querydsl 추가 시작
-def querydslDir = "$buildDir/generated/querydsl" as Object
+def querydslDir = "$buildDir/generated/querydsl" //QueryDSL로 생성된 소스가 저장되는 위치
 
 querydsl {
-	jpa = true
+	jpa = true //JPA 사용여부 설정
 	querydslSourcesDir = querydslDir
 }
+
 sourceSets {
-	main.java.srcDir querydslDir
+	main.java.srcDir querydslDir// 빌드시 컴파일이 필요한 소스위치
 }
-configurations {
-	querydsl.extendsFrom compileClasspath
-}
-compileQuerydsl {
+
+//QueryDSL 컴파일시 참조할 설정정보
+compileQuerydsl{
 	options.annotationProcessorPath = configurations.querydsl
 }
-//querydsl 추가 끝
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+	querydsl.extendsFrom compileClasspath //외부라이브러리 컴파일 경로 상속
+}
+
+//QueryDSL 플로그인 설정 END
