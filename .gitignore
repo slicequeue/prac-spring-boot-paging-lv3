@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### project custom ###
-/log/*.log
+log
