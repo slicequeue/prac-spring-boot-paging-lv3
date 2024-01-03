@@ -20,7 +20,11 @@ public enum WeightRecordSortType {
     WEIGHT("weight", "weight", weightRecord.weight),
     CREATED_AT("createdAt", "createdAt", weightRecord.createdAt),
     UPDATED_AT("updatedAt", "updatedAt", weightRecord.updatedAt),
-    TOTAl_AVG_WEIGHT("totalAvgWeight", "totalAvgWeight", weightStatistic.totalAvgWeight)
+    TOTAl_AVG_WEIGHT("totalAvgWeight", "totalAvgWeight", weightStatistic.totalAvgWeight),
+
+    TOTAL_GRADE("totalGrade", "totalGrade", Expressions.stringPath("totalGrade")),
+
+    IS_WARNING("isWarning", "isWarning", Expressions.booleanPath("isWarning"))
 
     ;
 

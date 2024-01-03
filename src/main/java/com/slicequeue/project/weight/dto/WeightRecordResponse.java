@@ -28,7 +28,9 @@ public class WeightRecordResponse {
 
     private float totalAvgWeight;
 
-    private String totalGrade; // TODO case 이용하여 프로젝션 넘기기, 정렬에도 사용
+    private String totalGrade;
+
+    private Boolean isWarning;
 
     private List<String> imageUrls;
 
@@ -48,7 +50,11 @@ public class WeightRecordResponse {
 
     }
 
-    public WeightRecordResponse(WeightRecord weightRecord, User user, WeightStatistic weightStatistic) {
+    public WeightRecordResponse(
+        WeightRecord weightRecord, User user, WeightStatistic weightStatistic,
+        String totalGrade,
+        Boolean isWarning
+    ) {
         this.recordId = weightRecord.getId();
         this.weight = weightRecord.getWeight();
         this.unit = weightRecord.getUnit().getValue();
@@ -56,7 +62,8 @@ public class WeightRecordResponse {
         this.userId = user.getId();
         this.userName = user.getName();
         this.totalAvgWeight = weightStatistic.getTotalAvgWeight();
-//        this.totalGrade // TODO 구현
+        this.totalGrade =  totalGrade;
+        this.isWarning = isWarning;
         this.imageUrls = weightRecord.getImageRecords().stream()
                 .map(WeightImageRecord::getImageUrl)
                 .toList();
