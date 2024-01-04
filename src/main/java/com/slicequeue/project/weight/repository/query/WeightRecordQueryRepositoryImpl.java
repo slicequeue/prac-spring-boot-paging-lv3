@@ -109,11 +109,9 @@ public class WeightRecordQueryRepositoryImpl
     }
 
     private Predicate searchCondition(WeightRecordSearchCondition searchCondition) {
-        // coalesce 이용하여 두 개 이상의 검색 조건 중 하나라도 만족하는 레코드를 찾는 데 사용
-        // null 인 경우 해당 조건을 넘김
         BooleanBuilder builder = new BooleanBuilder();
         BooleanExpression booleanExpression = totalGrade(searchCondition.getTotalGrade());
-        BooleanExpression warning = selectIsWarning(searchCondition.getIsWarning());
+        BooleanExpression warning = isWarning(searchCondition.getIsWarning());
         return builder.andAnyOf(booleanExpression, warning);
     }
 
@@ -121,7 +119,7 @@ public class WeightRecordQueryRepositoryImpl
         return (totalGrade != null) ? Expressions.stringPath("totalGrade").eq(totalGrade) : null;
     }
 
-    private BooleanExpression selectIsWarning(Boolean isWarning) {
+    private BooleanExpression isWarning(Boolean isWarning) {
         return (isWarning != null) ? Expressions.booleanPath("isWarning").eq(isWarning) : null;
     }
 
